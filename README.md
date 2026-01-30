@@ -11,11 +11,11 @@ manipulação de arquivos com I/O.
 ferramentas como Maven e Gradle para gerenciamento de dependências.
 Introdução ao Spring Framework.
 
-##Projetos Java Fundamentals.
+## Projetos Java Fundamentals.
 jogo de Sudoku
 BoardDeTarefas
 
-##Projetos Java developer.
+## Projetos Java developer.
 ValidacaoDeProcessoSeletivo
 ContaBancaria
 ModelandoIphone
